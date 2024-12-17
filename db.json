@@ -1,0 +1,46 @@
+{
+    "posts":[
+        {
+            "id" : 1,
+            "title": "Cách nấu phở bò truyền thống",
+            "body": "Hướng dẫn cách nấu phở bò"
+        },
+        {
+            "id" : 2,
+            "title": "Chính phủ dự kiến giảm 12 tổng cục, 500 cục",
+            "body": "Chính phủ sau tinh gọn dự kiến còn 13 bộ, 4 cơ quan ngang bộ; giảm 5 bộ và 4 cơ quan trực thuộc, 12/13 tổng cục và 500 cục, theo dự kiến của Bộ Nội vụ."
+        },
+        {
+            "id" : 3,
+            "title": "Những quyết sách định hình ngành công nghệ Việt Nam 2024",
+            "body": "Chiến lược về hạ tầng số, bán dẫn, blockchain, luật dữ liệu hay nghị định quản lý Internet được đánh giá đang định hình ngành công nghệ Việt Nam tương lai."
+        },
+        {
+            "id" : 4,
+            "title": "Phẫu thuật robot có thể thay đổi thế hệ bác sĩ tương lai",
+            "body": "Trong tương lai, sinh viên y khoa có thể phải học cách sử dụng robot và ứng dụng vào việc phẫu thuật bệnh nhân khi họ trở thành bác sĩ. "
+        },
+        {
+            "id" : 5,
+            "title": "Các tỉnh thành lần lượt công bố lương, thưởng Tết",
+            "body": "Long An năm thứ hai dẫn đầu cả nước về thưởng Tết Âm lịch với cao nhất 519 triệu đồng, trong khi Thanh Hóa thưởng thấp nhất 70.000 đồng, tính đến ngày 17/12. "
+        }
+    ],
+    "users":[
+        {
+            "username" : "hung123",
+            "password" : "gfueg923482332",
+            "fullname" : "N V H"
+        },
+        {
+            "username" : "nhien123",
+            "password" : "gfueg923482332",
+            "fullname" : "N B P N"
+        },
+        {
+            "username" : "nhan123",
+            "password" : "gfueg923482332",
+            "fullname" : "N N T N"
+        }
+    ]
+}
