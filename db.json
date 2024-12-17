@@ -28,17 +28,17 @@
     ],
     "users":[
         {
-            "username" : "hung123",
+            "email" : "hung123@gmail.com",
             "password" : "gfueg923482332",
             "fullname" : "N V H"
         },
         {
-            "username" : "nhien123",
+            "email" : "nhien123@gmail.com",
             "password" : "gfueg923482332",
             "fullname" : "N B P N"
         },
         {
-            "username" : "nhan123",
+            "email" : "nhan123@gmail.com",
             "password" : "gfueg923482332",
             "fullname" : "N N T N"
         }
